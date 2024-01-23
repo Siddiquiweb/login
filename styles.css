@@ -1,0 +1,34 @@
+.main{
+    background-color: rgb(37, 92, 92);
+    width: 300px;
+    height: 300px;
+    margin: 0 auto;
+    margin-top: 70px;
+    color: bisque;
+    padding-left: 30px;
+    padding-top: 40px;
+    text-align: center;
+   
+}
+input{
+    width: 250px;
+    height: 20px;
+    border-radius: 10px;
+    background-color: aliceblue;
+    border: 1px solid rgb(20, 58, 58);
+}
+
+button{
+    width: 150px;
+    height: 45px;
+    padding: 4px;
+    border-radius: 10px;
+    margin-left: 40px;
+    text-align: center;
+    font-family: 'Times New Roman', Times, serif;
+    bottom: center;
+}
+button:hover{
+    background-color: rgb(20, 58, 58);
+    color: antiquewhite;
+}
